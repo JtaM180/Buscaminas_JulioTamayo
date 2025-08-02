@@ -1,4 +1,4 @@
-# Buscaminas en Consola
+# Buscaminas
 
 Este es un proyecto de Buscaminas hecho en Java con arquitectura MVC. Incluye manejo de excepciones, pruebas JUnit y ejecución en consola.
 
