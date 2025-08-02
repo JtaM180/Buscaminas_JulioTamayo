@@ -5,7 +5,7 @@ Este es un proyecto de Buscaminas hecho en Java con arquitectura MVC. Incluye ma
 # Cómo ejecutar
 
 1. Abre el proyecto en Eclipse
-2. Ejecuta la clase `juego.Buscaminas`
+2. Ejecuta la clase `Juego.java`
 3. Sigue las instrucciones en la consola
 
 # Requisitos
